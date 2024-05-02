@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ky/bi4GK50hJ3MOeeXqQsDaRFD1orBuLPMiyZS/vTEvIsaEwu4Ihr9hUSx2r7ccWNDCiVS0v8jAlnNsd79h3tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ToDoProject\\ToDo.Domain\\ToDo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

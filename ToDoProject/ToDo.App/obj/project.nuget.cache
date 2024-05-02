@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fzjuo1okZmgZsgKl5/5xvwbzgtE1e5tjHOxP1jMUpJg8JMZP4qm4sjGbI4yjxDcGNL584dMhpnTvALjcqtNOcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ToDoProject\\ToDo.App\\ToDo.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
